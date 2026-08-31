@@ -1,0 +1,20 @@
+image 1/1 C:\Users\natha\OneDrive\Desktop\GITHUB\satDetection\test_image2.png: 928x1024 2 large-vehicles, 13 small-vehicles, 45.6ms
+Speed: 4.3ms preprocess, 45.6ms inference, 49.8ms postprocess per image at shape (1, 3, 928, 1024)
+Results saved to C:\Users\natha\OneDrive\Desktop\GITHUB\satDetection\runs\obb\results\inference\run1
+detected class: small-vehicle - confidence: 0.91
+detected class: small-vehicle - confidence: 0.89
+detected class: small-vehicle - confidence: 0.88
+detected class: small-vehicle - confidence: 0.87
+detected class: small-vehicle - confidence: 0.84
+detected class: small-vehicle - confidence: 0.84
+detected class: large-vehicle - confidence: 0.82
+detected class: small-vehicle - confidence: 0.77
+detected class: small-vehicle - confidence: 0.74
+detected class: small-vehicle - confidence: 0.71
+detected class: small-vehicle - confidence: 0.63
+detected class: small-vehicle - confidence: 0.36
+detected class: small-vehicle - confidence: 0.32
+detected class: large-vehicle - confidence: 0.29
+detected class: small-vehicle - confidence: 0.26
+
+seems accurate for the most part, however there is a large orange object that seems to say 'ramcrete', which is a construction company but not sure, it appears to be a large piece of industrial machinery on a truck bed, the model did not pick it up 
