@@ -1,0 +1,11 @@
+data/
+runs/
+results/
+models/
+notebooks/
+*.pt
+*.docx
+New Text Document.txt
+probSt.txt
+test_image*.png
+__pycache__/
