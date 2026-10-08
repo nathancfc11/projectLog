@@ -1,7 +1,7 @@
 # Dissertation: ResNet50 vs EfficientNet-B0 on MURA
 
 Final-year dissertation for my BSc Computer Science (Artificial
-Intelligence) at Brunel University London. A controlled comparison of
+Intelligence). A controlled comparison of
 two CNNs at detecting abnormal musculoskeletal X-rays in Stanford's MURA
 dataset, scored per study and not just per image.
 
